@@ -1,0 +1,30 @@
+name: base
+worlds:
+  - name: Nueva
+creatures:
+  - name: Human
+  - name: Elf
+  - name: Dwarf
+gear:
+  - name: LS01
+    type: armor
+    slot: shoulder
+    weight: 20
+  - name: AR-50
+    type: weapon
+environment:
+  - name: chair
+  - name: table
+portrait:
+  hair:
+    - hair_bald
+    - hair_1_black
+    - hair_1_blonde
+    - hair_1_red
+    - hair_2_black
+    - hair_2_blonde
+    - hair_2_red
+  features:
+    - tattoo_1
+    - moustache
+  
